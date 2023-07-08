@@ -11,10 +11,9 @@ This GitHub repository showcases a simple startup website built using Bootstrap.
 
 ## Demo
 
-Live Demo:
+Live Demo: 
 
-
-
+    https://nishap24.github.io/Nisha-P-Move-it---Startup-Site/
     
 ## Getting Started
 
